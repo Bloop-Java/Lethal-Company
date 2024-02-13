@@ -1,9 +1,0 @@
-{
-    "name": "Infinite_sprint",
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/thunderstore-io",
-    "description": "Gives you infinite sprint.",
-    "dependencies": [
-        "bbepis-BepInExPack-5.4.2113"
-    ]
-}
